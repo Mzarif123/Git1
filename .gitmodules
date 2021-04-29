@@ -1,3 +1,6 @@
 [submodule "Git1/Git2"]
 	path = Git1/Git2
 	url = https://github.com/Mzarif123/Git2
+[submodule "Git1/ZALib"]
+	path = Git1/ZALib
+	url = https://github.com/Mzarif123/ZALib
