@@ -1,0 +1,3 @@
+[submodule "Git1/Git2"]
+	path = Git1/Git2
+	url = https://github.com/Mzarif123/Git2
